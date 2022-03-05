@@ -1,7 +1,3 @@
-from operator import truediv
-from traceback import print_tb
-
-
 name = input("Username : ")
 age = int(input('Age : '))
 
